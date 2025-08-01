@@ -157,9 +157,9 @@ a:hover {
 @media (max-width:1600px) {
     
     header {
-        padding-left: calc(-6.95vw + 251.25px);
+        padding-left: calc(-7.26vw + 251.25px);
         padding-right: calc(2.96vw + 195.5px);
-        gap: calc(-12.56vw + 120px);
+        gap: 90px;
     }
 
     header nav ul {
@@ -190,7 +190,7 @@ a:hover {
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: calc(3.43vw + 8px);
+    gap: calc(10.31vw - 123px);
     padding-top: calc(1.61vw + 19.93px);
     
 }
@@ -221,6 +221,7 @@ a:hover {
 }
 
     .now_cinema {
+        gap: 20px;
     padding-right: 55px;
     padding-left: 0px;
 }
