@@ -23,7 +23,7 @@ body {
 
 .header-logo {
    width: calc(2.18vw + 87px);
-   height: calc(2vw + 17.6px);
+   height: calc(0.43vw + 48.6px);
 
 }
 
@@ -161,7 +161,7 @@ a:hover {
     header {
         padding-left: calc(-6.95vw + 251.25px);
         padding-right: calc(2.96vw + 195.5px);
-        gap: calc(-1.56vw + 120px);
+        gap: calc(-12.56vw + 120px);
     }
 
     header nav ul {
